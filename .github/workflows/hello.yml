@@ -14,4 +14,4 @@ jobs:
 
     steps:
       - name: Hello Step
-        run: eccho "Hello World"
+        run: echo "Hello World"
